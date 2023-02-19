@@ -7,7 +7,7 @@ mnbclassifier.pkl: a trained machine learning model that the app uses to classif
 requirements.txt: a list of Python packages required to run the app.
 README.md: this file.
 Installation
-Clone the repository: git clone https://github.com/your-username/spam-classifier.git.
+Clone the repository: git clone https://github.com/aadilganigaie/SpamClassifier.
 Navigate into the repository: cd spam-classifier.
 Install the required Python packages: pip install -r requirements.txt.
 Usage
